@@ -4,7 +4,7 @@ First api REST write in Python with Flask
 ## Install dependencies:
 
 ```bash
-C:\dev_api> pip install -r requirements.txt
+ pip install -r requirements.txt
 ```
 
 ## Recommendations
@@ -14,7 +14,7 @@ C:\dev_api> pip install -r requirements.txt
 - Create virtualenv for the run app to get more success in your tests. You can create virtualenv with this command in your terminal:
 
   ```bash
-  C:\> python3 -m venv /dev_api
+  python3 -m venv /dev_api
   ```
 
 ## More Informations:
