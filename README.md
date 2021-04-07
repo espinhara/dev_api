@@ -9,7 +9,7 @@ First api REST write in Python with Flask
 
 ## Recommendations
 
-- Install Python 3. You can get download it form [here](https://www.python.org/downloads/).
+- Install Python 3. You can get download it from [here](https://www.python.org/downloads/).
 
 - Create virtualenv for the run app to get more success in your tests. You can create virtualenv with this command in your terminal:
 
